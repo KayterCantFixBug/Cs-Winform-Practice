@@ -1,4 +1,8 @@
-<h1>Kết nối CSDL với Project Winform C#</h1>
+<h1 align="center">C# and Windows Form Practice</h1>
+
+This repository is utilized to archive programming assignments constructed in the C# programming language within the Visual Studio 2022 (Community Edition) development environment. These assignments pertain to coursework in **Object-Oriented Programming**, **Windows Programming**, and **Database Management Systems**.
+
+<h2>Kết nối CSDL với Project Winform C#</h2>
 
 **I. Tạo CSDL**
 
